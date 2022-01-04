@@ -18,10 +18,10 @@ non-violence videos are collected from many different human actions like sports,
 
 ## Tools
 
-* Technologies:
-**Python
--- Jupyter Notebook
--- streamlit
+*Technologies:
+  **Python
+  **Jupyter Notebook
+  **streamlit
 
 Libraries:
 keras
