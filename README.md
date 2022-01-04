@@ -24,11 +24,11 @@ non-violence videos are collected from many different human actions like sports,
   - streamlit
 
 - Libraries:
- - keras
- - Tensorflow
- - scipy
- - Pandas
- - Numpy
- - Matlibplot
- - Seaborn
- - SKlearn
+  - keras
+  - Tensorflow
+  - scipy
+  - Pandas
+  - Numpy
+  - Matlibplot
+  - Seaborn
+  - SKlearn
