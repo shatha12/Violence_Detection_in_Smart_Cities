@@ -20,15 +20,15 @@ non-violence videos are collected from many different human actions like sports,
 
 - Technologies:
   - Python
-  **Jupyter Notebook
-  **streamlit
+  - Jupyter Notebook
+  - streamlit
 
-Libraries:
-keras
-Tensorflow
-scipy
-Pandas
-Numpy
-Matlibplot
-Seaborn
-SKlearn
+- Libraries:
+ - keras
+ - Tensorflow
+ - scipy
+ - Pandas
+ - Numpy
+ - Matlibplot
+ - Seaborn
+ - SKlearn
