@@ -10,10 +10,10 @@ Three sequential layers with different activation function (__relu__) was added
 
 ![Screenshot](image1.png)
 
-> The below figure represent the loss 
+> The above figure represent the loss 
 ![Screenshot](image2.png)
 
-> The below figure represent the accuarcy
+> The above figure represent the accuarcy
 
 ## Future Work
 - Improve accuracy scores
