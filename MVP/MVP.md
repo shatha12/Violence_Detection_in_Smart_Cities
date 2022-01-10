@@ -9,10 +9,11 @@ he aim of this project is to develop automatic system to detect dangerous situat
 Three sequential layers with different activation function (__relu__) was added 
 
 <img src = 'image1.png' width = '500' />
-![Screenshot](image1.png)
 
 > The above figure represent the loss 
-![Screenshot](image2.png)
+
+
+<img src = 'image2.png' width = '500' />
 
 > The above figure represent the accuarcy
 
