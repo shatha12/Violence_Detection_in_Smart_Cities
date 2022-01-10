@@ -6,7 +6,7 @@ he aim of this project is to develop automatic system to detect dangerous situat
  ## Start building Simple Neural Network (baseline)
 
 
-Three sequential layers with different activation function (__relu__) was added 
+Three sequential layers with activation function (__relu__) was added 
 
 <img src = 'image1.png' width = '500' />
 
