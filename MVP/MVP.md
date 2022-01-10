@@ -6,11 +6,13 @@ he aim of this project is to develop automatic system to detect dangerous situat
  ## Start building Traditional Simple Neural Network (baseline)
 
 
-> Three sequential layers with different activation function (__relu__) was added 
+Three sequential layers with different activation function (__relu__) was added 
 
 [Screenshot](image1.png)
+
 > The below figure represent the loss 
-[Screenshot](image1.png)
+[Screenshot](image2.png)
+
 > The below figure represent the accuarcy
 
 ## Future Work
