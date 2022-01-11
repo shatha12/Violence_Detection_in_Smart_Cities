@@ -1,7 +1,7 @@
 # Violence Detection in Smart Cities
 
 ## Goal of the Project
-he aim of this project is to develop automatic system to detect dangerous situations Such as fighting, brawls, robberies, and more.
+The aim of this project is to develop automatic system to detect dangerous situations Such as fighting, brawls, robberies, and more.
 
  ## Start building Simple Neural Network (baseline)
 
