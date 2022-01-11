@@ -8,7 +8,7 @@ he aim of this project is to develop automatic system to detect dangerous situat
 
 Three sequential layers with activation function (__relu__) was added 
 
-<img src = 'image1.png' width = '500' />
+<img src = 'Screen Shot 1443-06-08 at 1.07.14 PM.png' width = '500' />
 
 > The above figure represent the loss 
 
